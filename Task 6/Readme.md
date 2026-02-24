@@ -192,7 +192,7 @@ git clone https://github.com/your-username/your-repository-name.git
 
 ## 👨‍💻 Author
 
-**Anish Sharma**
+**Sarthak Thakur**
 Data Science Intern – February 2026
 
 ---
