@@ -238,7 +238,7 @@ It strengthens problem-solving skills and prepares students for real-world softw
 
 ## 👨‍💻 Author
 
-**Anish Sharma**  
+**Sarthak Thakur**  
 Data Science Internship – February 2026  
 
 ---
