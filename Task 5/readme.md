@@ -205,9 +205,9 @@ Calculates electricity bill based on slab rates and classifies usage level.
 ## 📁 Repository Structure
 
 ```
-Assignment-5/
+Task 5/
 │
-├── assignment5.ipynb
+├── Task 5.ipynb
 ├── README.md
 ```
 
