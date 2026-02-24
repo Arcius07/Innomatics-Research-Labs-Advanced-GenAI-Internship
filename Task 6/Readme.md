@@ -156,7 +156,7 @@ These problems simulate real-world systems used in:
 ```
 Task_6/
 │
-├── task6_solution.ipynb
+├── task6.ipynb
 ├── README.md
 ```
 
